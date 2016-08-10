@@ -5,11 +5,15 @@
 .group1 > img {
     padding:15px;
 }
+/* ------------------------------ */
+
+
+
 .group2 {
     height: 200px;
 }
 .group2 img{
-    padding: 20px 50px;
+    padding: 20px 20px;
     float: left;
 }
 .group2 p {
@@ -17,6 +21,35 @@
     margin-top: 20px;
 }
 .group2 ol {
-    margin-left: 87%;
+    margin-left: 70%;
     text-align: left;
+    padding-top: 20px;
+}
+
+/* ------------------------------ */
+
+
+.group3 {
+    padding: 100px 0px;
+}
+
+/* ------------------------------ */
+
+.group4 img {
+    float: left;
+    padding: 20px;
+}
+
+.group4 p {
+    float: left;
+    padding-top: 17px;
+}
+
+.group4 ol {
+    padding-top: 15px;
+    margin-left: 35%;
+}
+
+.HL li{
+    display: inline-block;
 }
