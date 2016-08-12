@@ -40,7 +40,10 @@
     Height: 100%;
     text-align: center;
     border-radius: 20px;
-    
+ 
+ .mediaBlock {
+     width: 400px;
+ }   
   
 }
 .top {
