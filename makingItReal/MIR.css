@@ -2,6 +2,7 @@ body {
     width: 400px;
     margin: auto;
     font-family: sans-serif;
+    
 }
 
 .header {
@@ -9,11 +10,44 @@ body {
     background-color: mediumSpringGreen;
     height: 200px;
     color: mintcream;
-    border-bottom: mediumseagreen solid 5px;
+    border-bottom: mediumseagreen solid .5em;
 }
 
 .header h1 {
    position: relative;
    bottom: -80%;
    left: 2%;
+}
+.navBar {
+    background-color: steelBlue;
+    position: absolute;
+    width: 400Px;
+   height: 10%;
+}
+
+.navBar ul {
+
+}
+.navBar li {
+    display: inline;
+    position: relative;
+    left: 20%;
+    padding:5%;
+}
+
+.navBar a {
+   text-decoration: none;
+   display: inline-block;
+   color: mintcream;
+}
+
+.navBar a:hover {
+    background-color: slategray;
+    padding: 5%;
+    
+}
+
+.article h1 {
+    font-size: 14;
+    font-style: oblique;
 }
