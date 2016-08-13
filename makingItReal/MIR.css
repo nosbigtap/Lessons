@@ -1,0 +1,19 @@
+body {
+    width: 400px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.header {
+    position: absoulute;
+    background-color: mediumSpringGreen;
+    height: 200px;
+    color: mintcream;
+    border-bottom: mediumseagreen solid 5px;
+}
+
+.header h1 {
+   position: relative;
+   bottom: -80%;
+   left: 2%;
+}

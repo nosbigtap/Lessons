@@ -1,4 +1,9 @@
 /* ADD YOUR STYLES HERE */
+body {
+    width: 400px
+    margin: auto;
+}
+
 .data td {
     padding-right: 50px;
     padding-bottom: 20px;
@@ -40,11 +45,11 @@
     Height: 100%;
     text-align: center;
     border-radius: 20px;
- 
  .mediaBlock {
      width: 400px;
- }   
-  
+     margin: auto;
+     display: inline-block;
+}   
 }
 .top {
     display: inline-block;
