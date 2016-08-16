@@ -3,6 +3,7 @@ body {
     margin: auto;
     font-family: sans-serif;
     
+    
 }
 
 .header {
@@ -49,5 +50,9 @@ body {
 
 .article h1 {
     font-size: 14;
-    font-style: oblique;
+}
+
+.article p {
+    text-decoration: none;
+    
 }
